@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Stepdown-converter")(type "KiCad")(uri "${KIPRJMOD}/Library/Stepdown-converter/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "USB")(type "KiCad")(uri "${KIPRJMOD}/Library/USB/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "USB-to-UART")(type "KiCad")(uri "${KIPRJMOD}/Library/USB-to-UART/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "100uF-capacitor")(type "KiCad")(uri "${KIPRJMOD}/Library/100uF-capacitor/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "10uF-capacitor")(type "KiCad")(uri "${KIPRJMOD}/Library/10uF-capacitor/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "DIP-switch")(type "KiCad")(uri "${KIPRJMOD}/Library/DIP-switch/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "22uH-inductor")(type "KiCad")(uri "${KIPRJMOD}/Library/22uH-inductor/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "22uF-capacitor")(type "KiCad")(uri "${KIPRJMOD}/Library/22uF-capacitor/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "3.3uH-inductor")(type "KiCad")(uri "${KIPRJMOD}/Library/3.3uH-inductor/easyeda2kicad.pretty")(options "")(descr ""))
+  (lib (name "0.8uH-inductor")(type "KiCad")(uri "${KIPRJMOD}/Library/0.8uH-inductor/easyeda2kicad.pretty")(options "")(descr ""))
+)
